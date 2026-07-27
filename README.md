@@ -1,5 +1,10 @@
 # LinkSafe Bot
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![CI](https://github.com/shakhsg/linksafe-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/shakhsg/linksafe-bot/actions)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram)](https://core.telegram.org/bots)
+
 Telegram bot that checks any link for phishing before you click — built for Singapore, where scam messages impersonating DBS, Singpass, SingPost, and other local brands are common.
 
 Companion bot to [LinkSafe](https://github.com/shakhsg/linksafe), the web version.
